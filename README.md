@@ -16,8 +16,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EnxDev&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark" alt="Enzo's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnxDev&layout=compact&theme=github_dark" alt="Enzo's most used languages" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api?username=EnxDev&show_icons=true&include_all_commits=true&theme=github_dark" alt="Enzo's GitHub stats" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=EnxDev&layout=compact&theme=github_dark" alt="Enzo's most used languages" height="165" />
 </p>
 
 ---
